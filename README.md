@@ -1,0 +1,1 @@
+This is a git repository of my configuration for Obsidian vaults. It will change as my needs change.
